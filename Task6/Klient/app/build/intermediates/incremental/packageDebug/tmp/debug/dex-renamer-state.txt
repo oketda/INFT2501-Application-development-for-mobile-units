@@ -1,0 +1,4 @@
+#Wed Oct 06 14:29:26 CEST 2021
+base.0=/Users/Herman/Desktop/Eksempelkode-Leksjon-6/Klient/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

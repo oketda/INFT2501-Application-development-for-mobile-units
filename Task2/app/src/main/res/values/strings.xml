@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="random_number_activity">Random Number Activity</string>
+    <string name="random_number">Random number</string>
+    <string name="math_test">Math test</string>
+    <string name="add">Add</string>
+    <string name="multiply">Multiply</string>
+    <string name="answer">Answer</string>
+    <string name="top_limit">Top limit:</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong. Correct answer is:</string>
+    <string name="temp_answer">8</string>
+    <string name="number2">5</string>
+    <string name="number">3</string>
+    <string name="temp_top_limit">10</string>
+</resources>

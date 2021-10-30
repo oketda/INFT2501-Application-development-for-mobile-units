@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="title">App for storing personalias</string>
+    <string name="show_personalia">Show list of personalias</string>
+    <string name="add_personalia">Add personalia</string>
+    <string name="edit_personalia">Edit personalia</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_label">Name</string>
+    <string name="date_label">Date</string>
+</resources>

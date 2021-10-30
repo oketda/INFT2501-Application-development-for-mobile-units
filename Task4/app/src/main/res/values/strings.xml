@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task4</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string-array name="picture_titles">
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Dog</item>
+    </string-array>
+    <string-array name="picture_descriptions">
+        <item>Sheeps grows wool that humans use to create clothing.</item>
+        <item>Lions are animals found in Africa. They are predators.</item>
+        <item>Dogs are used as pets and are known to be humans best friends.</item>
+    </string-array>
+    <array name="pictures">
+        <item>@drawable/sheep</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/dog</item>
+    </array>
+</resources>
